@@ -85,6 +85,9 @@ its own folder, and the midway finds it there, so a new game touches no shared
 file. Several games can be built at once without clashing, and everyone ends the
 session with a different carnival.
 
+> The empty booths have said "coming soon" since opening day. Management calls
+> that a roadmap.
+
 ## Get your own carnival
 
 1. **Fork** this repository on GitHub, and clone your fork.
