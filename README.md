@@ -85,7 +85,8 @@ its own folder, and the midway finds it there, so a new game touches no shared
 file. Several games can be built at once without clashing, and everyone ends the
 session with a different carnival.
 
-> Why did the water cannon get promoted? It always hit its targets.
+> The empty booths have said "coming soon" since opening day. Management calls
+> that a roadmap.
 
 ## Get your own carnival
 
