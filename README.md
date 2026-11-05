@@ -99,15 +99,17 @@ session with a different carnival.
 Every merge to `main` redeploys your carnival, so your factory's work shows up
 at the same link.
 
-**Run it on your laptop instead.** You need git and Node 22.13 or later. In
-your clone:
+### Run it locally
+
+You need git and Node 22.13 or later. In your clone, install the dependencies
+and start the carnival:
 
 ```bash
 npm ci
 npm run dev
 ```
 
-Then open http://localhost:5173.
+Then open http://localhost:5173. The page reloads as you change the code.
 
 **Can't run it on your laptop?** Open your fork in GitHub Codespaces instead:
 on your fork's page, select **Code → Codespaces → Create codespace on main**. It
