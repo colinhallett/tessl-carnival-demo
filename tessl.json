@@ -4,7 +4,7 @@
     "pause-check": {
       "action": { "skill": "tessl/factory#implement-github-issue" },
       "cron": "0 0 1 1 *",
-      "description": "Check that a paused repo Loop stays paused after a push. Fires once a year; safe to delete."
+      "description": "Check that a paused repo Loop stays paused after a push. Fires once a year; safe to delete. Edited after pausing."
     }
   }
 }
