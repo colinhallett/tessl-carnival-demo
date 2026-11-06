@@ -6,4 +6,3 @@ set -eo pipefail
 
 echo "Installing dependencies with npm ci"
 npm ci
-
