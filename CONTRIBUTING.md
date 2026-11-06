@@ -12,6 +12,17 @@ repository as the clean starting point that everyone forks.
 In your fork, you can open as many as you like. The starter issues show up
 under **Issues → New issue** once you've asked your agent to **Set up my fork**.
 
+## Working on the code
+
+1. Install dependencies with `npm ci`.
+2. Run the carnival with `npm run dev` and open localhost:5173.
+3. Format with `npm run format`, then run `npm run check`. It lints, checks
+   formatting, type-checks and runs the Vitest tests. CI runs the same command.
+4. Open a pull request against `main` that says what changed and how to try it,
+   and ends with `Closes #<issue number>`. CI must pass before it merges.
+
+[`AGENTS.md`](AGENTS.md) has the house rules every change follows.
+
 ## Questions, ideas and bugs
 
 - **Show what you built** in
